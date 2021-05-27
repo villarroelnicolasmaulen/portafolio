@@ -1,8 +1,8 @@
-import 'style.css'
+import '/style.css'
 
-import * as THREE from 'three.min.js';
+import * as THREE from '/three.min.js';
 
-import {OrbitControls} from 'OrbitControls.js'; 
+import {OrbitControls} from '/OrbitControls.js'; 
 
 const scene = new THREE.Scene();
 
